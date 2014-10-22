@@ -1,5 +1,6 @@
 /** The Rectangle class defines toString, rotate
     and getArea methods 
+	 Brian Minter
 **/
    public class Rectangle
    {
@@ -34,7 +35,7 @@
 		}
 		
 		//Computes and returns area of rectangle
-		public int getArea ()
+		public int getArea()
 		{
 			return height * width;
 		}
